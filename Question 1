@@ -2,7 +2,8 @@
 
 //ANS.)
 
-#include <iostream>
+#include <iostream.h>
+#inlude <conio.h>
 using namespace std;
 int main()
 {
