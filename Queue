@@ -2,7 +2,7 @@
 /*
 using namespace std;
 #include<iostream>
-#include<process.h>
+
 #define size 5
 class queue{
 	private:
@@ -128,11 +128,14 @@ int main(){
 	}while(ans=='y'||ans=='Y');
 }
 */
+
+
+
 /* Implementation of Queue using Linked list */
 
 using namespace std;
 #include<iostream>
-#include<process.h>
+
 class Node{
 	private:
 		int info;
